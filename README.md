@@ -1,6 +1,3 @@
-## ✅ Final `README.md` 
-
-````markdown
 # TODO API in Java (Spring Boot)
 
 A simple TODO REST API application built using Java and Spring Boot.  
